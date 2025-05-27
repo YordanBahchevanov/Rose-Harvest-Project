@@ -1,0 +1,16 @@
+Rose Harvest Summary for 19-05-25
+Total Harvested Roses: 200.40 kg
+Total Bags: 21
+Number of Harvesters: 8
+
+Breakdown by Harvester:
+               quantity_kg  bags
+name                            
+Angel                 37.0     4
+Boris                 13.3     1
+Ceca                   7.4     1
+Ivan Drangovo         45.0     4
+Ivan Vurben           14.6     2
+Tsanko                47.7     5
+Velio Vurben          17.4     2
+Zlatko                18.0     2

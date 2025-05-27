@@ -1,0 +1,17 @@
+Rose Harvest Summary for 25-05-25
+Total Sacks Count: 58
+Total Roses Gross Weight: 714.5 kg
+Total Tare Weight: 11.6
+Total Roses Net Weight: 702.9 kg
+Number of Harvesters: 7
+
+Breakdown by Harvester:
+                quantity_kg  sacks
+id name                           
+1  Tsanko             269.9     22
+2  Ivan Petrov         44.0      4
+3  Ceca                38.2      4
+4  Zlatko             117.6      9
+6  Botio               53.0      4
+8  Angel              133.6     12
+9  Ivan Vurben         46.6      3
