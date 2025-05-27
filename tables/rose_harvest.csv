@@ -1,68 +1,68 @@
 name,id,date,day,quantity_kg,sacks
 Tsanko,1,12-05-25,Monday,98.9,9
-Ivan Petrov,2,12-05-25,Monday,20,2
+Ivan Petrov,2,12-05-25,Monday,20.0,2
 Ceca,3,12-05-25,Monday,11.7,1
 Zlatko,4,12-05-25,Monday,78.8,6
 Tsanko,1,13-05-25,Tuesday,46.7,4
-Ivan Petrov,2,13-05-25,Tuesday,14,2
+Ivan Petrov,2,13-05-25,Tuesday,14.0,2
 Ceca,3,13-05-25,Tuesday,13.5,1
 Zlatko,4,13-05-25,Tuesday,47.2,4
 Boris,5,13-05-25,Tuesday,18.9,2
-Botio,6,13-05-25,Tuesday,20,3
+Botio,6,13-05-25,Tuesday,20.0,3
 Tsanko,1,14-05-25,Wednesday,34.3,3
-Ceca,3,14-05-25,Wednesday,3,1
+Ceca,3,14-05-25,Wednesday,3.0,1
 Zlatko,4,14-05-25,Wednesday,50.7,4
 Tsanko,1,15-05-25,Thursday,34.7,4
-Ivan Petrov,2,15-05-25,Thursday,30,3
+Ivan Petrov,2,15-05-25,Thursday,30.0,3
 Ceca,3,15-05-25,Thursday,7.6,1
 Zlatko,4,15-05-25,Thursday,34.4,3
 Boris,5,15-05-25,Thursday,9.6,1
-Botio,6,15-05-25,Thursday,6,1
-Ivan Drangovo,7,15-05-25,Thursday,25,3
+Botio,6,15-05-25,Thursday,6.0,1
+Ivan Drangovo,7,15-05-25,Thursday,25.0,3
 Tsanko,1,16-05-25,Friday,57.8,7
 Ivan Petrov,2,16-05-25,Friday,12.6,1
 Ceca,3,16-05-25,Friday,9.1,1
-Zlatko,4,16-05-25,Friday,42,3
+Zlatko,4,16-05-25,Friday,42.0,3
 Ivan Drangovo,7,16-05-25,Friday,17.6,2
 Angel,8,16-05-25,Friday,11.3,1
 Tsanko,1,17-05-25,Saturday,48.5,6
 Ceca,3,17-05-25,Saturday,11.4,1
 Boris,5,17-05-25,Saturday,17.7,2
-Botio,6,17-05-25,Saturday,12,1
-Tsanko,1,18-05-25,Sunday,74,8
+Botio,6,17-05-25,Saturday,12.0,1
+Tsanko,1,18-05-25,Sunday,74.0,8
 Ivan Petrov,2,18-05-25,Sunday,33.3,3
 Ceca,3,18-05-25,Sunday,9.7,1
 Zlatko,4,18-05-25,Sunday,59.2,4
-Botio,6,18-05-25,Sunday,17,2
-Ivan Drangovo,7,18-05-25,Sunday,45,4
-Angel,8,18-05-25,Sunday,37,4
+Botio,6,18-05-25,Sunday,17.0,2
+Ivan Drangovo,7,18-05-25,Sunday,45.0,4
+Angel,8,18-05-25,Sunday,37.0,4
 Tsanko,1,19-05-25,Monday,47.7,5
 Ceca,3,19-05-25,Monday,7.4,1
-Zlatko,4,19-05-25,Monday,18,2
+Zlatko,4,19-05-25,Monday,18.0,2
 Boris,5,19-05-25,Monday,13.3,1
-Ivan Drangovo,7,19-05-25,Monday,45,4
-Angel,8,19-05-25,Monday,37,4
+Ivan Drangovo,7,19-05-25,Monday,45.0,4
+Angel,8,19-05-25,Monday,37.0,4
 Ivan Vurben,9,19-05-25,Monday,14.6,2
 Velio Vurben,10,19-05-25,Monday,17.4,2
 Tsanko,1,20-05-25,Tuesday,77.8,8
 Ivan Petrov,2,20-05-25,Tuesday,31.3,3
 Ceca,3,20-05-25,Tuesday,10.5,1
-Zlatko,4,20-05-25,Tuesday,57,4
+Zlatko,4,20-05-25,Tuesday,57.0,4
 Boris,5,20-05-25,Tuesday,7.3,1
-Botio,6,20-05-25,Tuesday,20,2
-Ivan Drangovo,7,20-05-25,Tuesday,82,8
+Botio,6,20-05-25,Tuesday,20.0,2
+Ivan Drangovo,7,20-05-25,Tuesday,82.0,8
 Angel,8,20-05-25,Tuesday,37.4,4
 Tsanko,1,21-05-25,Wednesday,103.8,10
-Ivan Petrov,2,21-05-25,Wednesday,22,2
+Ivan Petrov,2,21-05-25,Wednesday,22.0,2
 Ceca,3,21-05-25,Wednesday,19.4,2
-Zlatko,4,21-05-25,Wednesday,87,6
-Boris,5,21-05-25,Wednesday,14,2
-Ivan Drangovo,7,21-05-25,Wednesday,53,6
+Zlatko,4,21-05-25,Wednesday,87.0,6
+Boris,5,21-05-25,Wednesday,14.0,2
+Ivan Drangovo,7,21-05-25,Wednesday,53.0,6
 Angel,8,21-05-25,Wednesday,33.7,4
 Ivan Vurben,9,21-05-25,Wednesday,26.7,2
 Tsanko,1,22-05-25,Thursday,134.3,14
 Ivan Petrov,2,22-05-25,Thursday,41.3,4
-Ceca,3,22-05-25,Thursday,21,2
+Ceca,3,22-05-25,Thursday,21.0,2
 Zlatko,4,22-05-25,Thursday,101.4,7
 Boris,5,22-05-25,Thursday,16.2,2
 Botio,6,22-05-25,Thursday,40.5,4
@@ -72,26 +72,26 @@ Ivan Petrov,2,23-05-25,Friday,26.6,3
 Ceca,3,23-05-25,Friday,36.6,4
 Zlatko,4,23-05-25,Friday,151.8,11
 Boris,5,23-05-25,Friday,23.5,2
-Ivan Drangovo,7,23-05-25,Friday,101,10
-Angel,8,23-05-25,Friday,86,8
+Ivan Drangovo,7,23-05-25,Friday,101.0,10
+Angel,8,23-05-25,Friday,86.0,8
 Ivan Vurben,9,23-05-25,Friday,40.4,4
 Tsanko,1,24-05-25,Saturday,271.1,25
 Ivan Petrov,2,24-05-25,Saturday,51.5,5
-Ceca,3,24-05-25,Saturday,45,5
+Ceca,3,24-05-25,Saturday,45.0,5
 Zlatko,4,24-05-25,Saturday,177.7,13
 Boris,5,24-05-25,Saturday,25.7,2
-Botio,6,24-05-25,Saturday,52,5
-Ivan Drangovo,7,24-05-25,Saturday,129,12
+Botio,6,24-05-25,Saturday,52.0,5
+Ivan Drangovo,7,24-05-25,Saturday,129.0,12
 Angel,8,24-05-25,Saturday,102.5,9
 Tsanko,1,25-05-25,Sunday,269.9,22
-Ivan Petrov,2,25-05-25,Sunday,44,4
+Ivan Petrov,2,25-05-25,Sunday,44.0,4
 Ceca,3,25-05-25,Sunday,38.2,4
 Zlatko,4,25-05-25,Sunday,117.6,9
-Botio,6,25-05-25,Sunday,53,4
+Botio,6,25-05-25,Sunday,53.0,4
 Angel,8,25-05-25,Sunday,133.6,12
 Ivan Vurben,9,25-05-25,Sunday,46.6,3
 Tsanko,1,26-05-25,Monday,154.4,12
 Ceca,3,26-05-25,Monday,23.5,2
-Boris,5,26-05-25,Monday,31,2
-Ivan Drangovo,7,26-05-25,Monday,176,12
+Boris,5,26-05-25,Monday,31.0,2
+Ivan Drangovo,7,26-05-25,Monday,176.0,12
 Ivan Vurben,9,26-05-25,Monday,39.9,3

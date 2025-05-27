@@ -3,11 +3,20 @@ import matplotlib.pyplot as plt
 from datetime import datetime
 import os
 
-HARVESTERS_FILE = 'harvesters.csv'
-HARVEST_DATA_FILE = 'rose_harvest.csv'
+SUMMARY_FOLDER = 'summaries'
+TABLES_FOLDER = 'tables'
+
+HARVESTERS_FILE = os.path.join(TABLES_FOLDER, 'harvesters.csv')
+HARVEST_DATA_FILE = os.path.join(TABLES_FOLDER, 'rose_harvest.csv')
+
+
+def ensure_folder(folder):
+    if not os.path.exists(folder):
+        os.makedirs(folder)
 
 
 def load_or_create_csv(filepath, columns):
+    ensure_folder(os.path.dirname(filepath))
     if os.path.exists(filepath):
         return pd.read_csv(filepath)
     else:
@@ -15,6 +24,7 @@ def load_or_create_csv(filepath, columns):
 
 
 def save_csv(df, filepath):
+    ensure_folder(os.path.dirname(filepath))
     df.to_csv(filepath, index=False)
 
 
@@ -134,7 +144,8 @@ def daily_summary():
     print("\nBreakdown by Harvester:")
     print(breakdown)
 
-    filename = f"summary_{target_date}.txt".replace("/", "-")
+    ensure_folder(SUMMARY_FOLDER)
+    filename = os.path.join(SUMMARY_FOLDER, f"summary_{target_date}.txt".replace("/", "-"))
 
     with open(filename, "w") as f:
         f.write(f"Rose Harvest Summary for {target_date}\n")

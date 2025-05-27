@@ -1,6 +1,6 @@
 Rose Harvest Summary for 24-05-25
-Total Roses Gross Weight: 869.7 kg
 Total Sacks Count: 76
+Total Roses Gross Weight: 869.7 kg
 Total Tare Weight: 15.2
 Total Roses Net Weight: 854.5 kg
 Number of Harvesters: 8
